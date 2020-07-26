@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HealthShabalkova</string>
+    <string name="app_tag_name">Комплексная система мониторинга здоровья</string>
+    <string name="author_name">by Maria</string>
+    <string name="enterName">Введите Имя</string>
+    <string name="enterAge">Введите Возраст</string>
+    <string name="button_save">Сохранить</string>
+    <string name="go_to_BP">Перейти к записи давления</string>
+    <string name="go_to_Vital">Перейти к записи жизненных показателей</string>
+    <string name="title_BP">Данные о давлении</string>
+    <string name="low_BP_text">Нижнее давление:</string>
+    <string name="hight_BP_text">Верхнее давление:</string>
+    <string name="pulse_text">Пульс:</string>
+    <string name="tachycardia_text">Тахикардия:</string>
+    <string name="tachycardia_switchOn">есть</string>
+    <string name="tachycardia_switchOff">нет</string>
+    <string name="enterData_text">Дата замера:</string>
+    <string name="vital_text">Жизненные показатели</string>
+    <string name="weight_text">Вес:</string>
+    <string name="steps_text">Количество шагов:</string>
+</resources>
